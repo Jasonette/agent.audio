@@ -6,4 +6,4 @@ In this case I'm using [Pizzicato.js](https://alemangui.github.io/pizzicato/) to
 
 You can check out the web app at [https://jasonette.github.io/agent.audio](https://jasonette.github.io/agent.audio)
 
-And watch the same web app function as a Jasonette agent, through [https://alemangui.github.io/pizzicato/app.json](https://alemangui.github.io/pizzicato/app.json)
+And watch the same web app function as a Jasonette agent, through [https://alemangui.github.io/agent.audio/app.json](https://alemangui.github.io/agent.audio/app.json)
